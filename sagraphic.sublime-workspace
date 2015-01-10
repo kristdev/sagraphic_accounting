@@ -1,0 +1,304 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ngi",
+				"ng-include	AngularJS"
+			],
+			[
+				"$routep",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$rout",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$rou",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$ro",
+				"$routeProvider	AngularJS(DI)"
+			],
+			[
+				"ng-v",
+				"ng-view	AngularJS"
+			],
+			[
+				"co",
+				"controller	AngularJS"
+			],
+			[
+				"b",
+				"bs3-col	bs3-col"
+			],
+			[
+				"nb",
+				"nbarticles"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/wamp/www/learnjavascript/environnement.html",
+		"/D/wamp/www/learnjavascript/assets/mycss/mycss.css",
+		"/H/softwares/bootstrap/bootstrap-3.2.0-dist/css/index.html",
+		"/H/softwares/bootstrap/bootstrap-3.2.0-dist/css/bootstrap-theme.css",
+		"/D/wamp/www/sagraphic_accounting/package.json",
+		"/D/wamp/www/sagraphic_accounting/sagraphic_accounting/frame.html",
+		"/D/wamp/www/sagraphic_accounting/sagraphic_accounting/includes/sidebarmenu.html",
+		"/J/HTtrack/3 in 1/responsivewebinc.com/premium/mac5/macadmin/index-2.html",
+		"/D/wamp/www/sagraphic_accounting/sagraphic_accounting/frame0.html",
+		"/D/wamp/www/sagraphic_accounting/sagraphic_accounting/partials/dashboard.html",
+		"/D/wamp/www/sagraphic_accounting/sagraphic_accounting/index.js",
+		"/D/wamp/www/sagraphic_accounting/sagraphic_accounting/ngscripts/moduletemplate.js",
+		"/D/wamp/www/sagraphic_accounting/sagraphic_accounting/includes/appheader.html",
+		"/D/wamp/www/sagraphic_accounting/sagraphic_accounting/menu.js",
+		"/D/wamp/www/sagraphic_accounting/sagraphic_accounting/index.html",
+		"/D/wamp/www/ci_RestApp/index.html",
+		"/D/wamp/www/ci_RestApp/index.js",
+		"/D/wamp/www/sagraphic_accounting/sagraphic_accounting/js/custom.js",
+		"/D/wamp/www/sagraphic_accounting/sagraphic_accounting/includes/navheader.html",
+		"/D/wamp/www/bethelccoh/includes/headertop.html",
+		"/J/HTtrack/roxie/roxie.pixelized.cz/index.html",
+		"/H/softwares/angularjs/plugins/simple pagination/app.js",
+		"/H/softwares/angularjs/plugins/simple pagination/html.html",
+		"/D/wamp/www/ci_RestApp/partials/frontend/articles.html",
+		"/H/softwares/angularjs/plugins/paginate anything/angular-paginate-anything-master/test/paginate-anything-spec.js",
+		"/D/wamp/www/ci_RestApp/ci_RestApp.sublime-project",
+		"/D/wamp/www/kola/html/index.html",
+		"/D/wamp/www/kola/html/css/responsive.css",
+		"/D/wamp/www/kola/html/css/main.css",
+		"/D/wamp/www/kola/html/test.html",
+		"/D/wamp/www/kola/html/test.js",
+		"/H/zend/Zend Guard/Zend Guard.nfo",
+		"/H/jetbrains/JetBrains WebStorm v9 0 139 252 Incl KeyMaker-DVT/dvt.nfo",
+		"/H/jetbrains/JetBrains WebStorm v9 0 139 252 Incl KeyMaker-DVT/crack/META-INF/MANIFEST.MF",
+		"/H/jetbrains/JetBrains WebStorm v9 0 139 252 Incl KeyMaker-DVT/file_id.diz",
+		"/J/HTtrack/triangle/demo.themeum.com/html/triangle/1.1/singlecolor/index.html",
+		"/D/wamp/www/ci_RestApp/api/application/modules/article/controllers/article.php",
+		"/G/angularjs/tutos ecrits/exemple pagination/index.js",
+		"/G/angularjs/tutos ecrits/exemple pagination/index.html",
+		"/D/wamp/www/sagraphic_accounting/sagraphic_accounting/dashboard.html",
+		"/H/HTtrack/3 in 1/responsivewebinc.com/premium/mac5/macadmin/index-2.html",
+		"/H/HTtrack/3 in 1/responsivewebinc.com/premium/mac5/macadmin/login.html",
+		"/D/wamp/www/ci_RestApp/api/sql/datas.sql",
+		"/D/wamp/www/ci_RestApp/api/sql/onlydb.sql",
+		"/H/HTtrack/kertas/vergo-kertas.herokuapp.com/ui-buttons.html",
+		"/H/HTtrack/kertas/vergo-kertas.herokuapp.com/pages-support.html",
+		"/H/HTtrack/kertas/vergo-kertas.herokuapp.com/email.html",
+		"/H/HTtrack/kertas/vergo-kertas.herokuapp.com/ui-typography.html",
+		"/G/codeigniter/REST/codeigniter-restserver-master/application/controllers/api/example.php",
+		"/G/codeigniter/REST/codeigniter-restserver-master/application/controllers/api/key.php",
+		"/D/wamp/www/ci_RestApp/api/application/config/config.php",
+		"/D/wamp/www/ci_RestApp/api/application/config/rest.php",
+		"/D/wamp/www/ci_RestApp/api/application/config/database.php",
+		"/D/wamp/www/ci_RestApp/dataanalysis.html",
+		"/D/wamp/www/ci_RestApp/datagenerating.html",
+		"/D/wamp/www/ci_RestAppcopied/datagenerating.html",
+		"/D/wamp/www/ci_RestAppcopied/dataanalysis.html",
+		"/D/wamp/www/ci_RestAppcopied/index.html",
+		"/D/wamp/www/ci_RestApp/readme.md",
+		"/D/wamp/www/ci_RestApp/dataanalysis.md",
+		"/D/wamp/www/ci_RestApp/datagenerating.md",
+		"/D/wamp/www/ci_RestApp/api/application/libraries/MY_Form_validation.php",
+		"/D/wamp/www/ci_RestApp/api/.htaccess",
+		"/G/codeigniter/wiredesignz-codeigniter-modular-extensions-hmvc-fecd39ccdf56/.hg_archival.txt",
+		"/D/wamp/bin/php/php5.4.3/php.ini",
+		"/H/dll/readme.txt",
+		"/C/Users/qahal/Downloads/readme.txt",
+		"/H/mongodbprojects/firstproject/data/packy.0",
+		"/G/software/Antivirus/avira antivir/Avira_Internet_Security_2013_13.0.0.2688_Final/AIS_26-06-2013.key",
+		"/G/software/Antivirus/avira antivir/Avira_Internet_Security_2013_13.0.0.2688_Final/HBEDV5.KEY"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"head",
+			"header",
+			"has_sub",
+			"bar-chart",
+			"howdy",
+			"hdata\"",
+			">\n",
+			"button",
+			"!",
+			"#dab074",
+			"#dbb075",
+			"d29948",
+			"./leserveurrest.md",
+			"./dataanalysis.md",
+			"./readme.md",
+			"/leserveurrest.md",
+			"./datagenerating.md",
+			"./readme.md",
+			"./leserveurrest.md",
+			"./datagenerating.md",
+			"./dataanalysis.md",
+			"!",
+			"span"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#a33a3c",
+			"a33a3c",
+			"kristdev.github.io/ci_RestApp/leserveurrest.html",
+			"http://kristdev.github.io/ci_RestApp/dataanalysis.html",
+			"http://kristdev.github.io/ci_RestApp/index.html",
+			"http://kristdev.github.io/ci_RestApp/leserveurrest.html",
+			"http://kristdev.github.io/ci_RestApp/datagenerating.html",
+			"http://kristdev.github.io/ci_RestApp/index.html",
+			"http://kristdev.github.io/ci_RestApp/leserveurrest.html",
+			"http://kristdev.github.io/ci_RestApp/datagenerating.html",
+			"http://kristdev.github.io/ci_RestApp/dataanalysis.html"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "sagraphic.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

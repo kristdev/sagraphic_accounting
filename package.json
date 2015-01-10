@@ -1,0 +1,19 @@
+{
+  "main":                 "sagraphic_accounting/index.html",
+  "name":                 "SAGraphic accounting",
+  "description":          "Application de Gestion de caisses, Entrées-Sorties",
+  "version":              "1.0.0",
+  "keywords":             [ "demo", "node-webkit" ],
+  "window": {
+    "title":              "SAGraphic accounting",
+    "icon":               "windows.png",
+    "toolbar":            true,
+    "frame":              true,
+    "position":           "center",
+    "width":              800,
+    "height":             600
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
